@@ -1,0 +1,9 @@
+# Local licensed landslide segmentation dataset configuration.
+# Set `path` to a local copy of the dataset; no imagery or labels are distributed.
+path: data/landslide_dataset
+train: images/train
+val: images/val
+test:
+
+names:
+  0: landslide

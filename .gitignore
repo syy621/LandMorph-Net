@@ -1,0 +1,55 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Private data, imagery, checkpoints, and generated outputs
+data/
+datasets/
+runs/
+outputs/
+weights/
+detect/
+Ablation/
+wandb/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.engine
+*.torchscript
+*.tflite
+*.pb
+*.h5
+*.tif
+*.tiff
+*.img
+*.jp2
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.ovr
+*.geojson
+*.gpkg
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Notebook checkpoints and local Ultralytics demo assets
+.ipynb_checkpoints/
+ultralytics/assets/

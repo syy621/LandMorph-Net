@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "LandMorph-Net: Frequency-Spatial Feature Enhancement for Instance-Based Regional Landslide Mapping"
+message: "If you use this software, please cite the associated LandMorph-Net paper."
+type: software
+authors:
+  - family-names: Song
+    given-names: Yuyang
+  - family-names: Li
+    given-names: Weile
+  - family-names: Lu
+    given-names: Huiyan
+version: "1.0.0"
+date-released: 2026-09-15
+license: AGPL-3.0
